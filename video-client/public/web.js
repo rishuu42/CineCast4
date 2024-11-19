@@ -1,7 +1,7 @@
 // Connection to server
 
 // Deploy links: 
-let herokuLink = "https://cinecast4.onrender.com/"; 
+let herokuLink = "https://cool-crisp-d1b00c.netlify.app/"; 
 
 let localDeploy = "http://localhost:3000/";
 
